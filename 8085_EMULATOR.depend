@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1510931180 source:c:\users\shreyanshi arun\desktop\8085\8085_emulator\main.cpp
+	"main.h"
+
+1510884949 source:c:\users\shreyanshi arun\desktop\8085\8085_emulator\arithemetic_instructions.cpp
+	"arithemetic_instructions.h"
+
+1510242583 c:\users\shreyanshi arun\desktop\8085\8085_emulator\arithemetic_instructions.h
+	"helper_functions.h"
+
+1510863394 c:\users\shreyanshi arun\desktop\8085\8085_emulator\helper_functions.h
+	<iostream>
+	<sstream>
+	<math.h>
+	<string>
+	<cstring>
+	<iomanip>
+	<stdio.h>
+	<fstream>
+	<algorithm>
+
+1510885232 source:c:\users\shreyanshi arun\desktop\8085\8085_emulator\helper_functions.cpp
+	"helper_functions.h"
+
+1510771054 c:\users\shreyanshi arun\desktop\8085\8085_emulator\main.h
+	"arithemetic_instructions.h"
+	"helper_functions.h"
+	"data_transfer_instructions.h"
+	"logical_instructions.h"
+
+1510243175 source:c:\users\shreyanshi arun\desktop\8085\8085_emulator\branch_instructions.cpp
+
+1510843274 source:c:\users\shreyanshi arun\desktop\8085\8085_emulator\data_transfer_instructions.cpp
+	"helper_functions.h"
+
+1510245434 source:c:\users\shreyanshi arun\desktop\8085\8085_emulator\logical_instructions.cpp
+	"logical_instructions.h"
+
+1510245928 c:\users\shreyanshi arun\desktop\8085\8085_emulator\logical_instructions.h
+	"helper_functions.h"
+
+1510246345 c:\users\shreyanshi arun\desktop\8085\8085_emulator\data_transfer_instructions.h
+	"helper_functions.h"
+
